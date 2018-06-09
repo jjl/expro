@@ -1,0 +1,3 @@
+%{
+  "protocol_ex": {:hex, :protocol_ex, "0.3.22", "91da82f876d059e9f6c71b8dee74a75ee8731a05bb82544da9a4916f6644e300", [:mix], [], "hexpm"},
+}
